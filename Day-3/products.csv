@@ -1,0 +1,11 @@
+name,category,price,stock
+Laptop,Electronics,80000,10
+Phone,Electronics,30000,0
+TV,Electronics,50000,5
+Headphones,Electronics,2000,15
+Shirt,Clothing,1500,20
+Shoes,Clothing,2500,0
+Jacket,Clothing,4000,7
+Watch,Accessories,7000,3
+Sunglasses,Accessories,3000,12
+Backpack,Accessories,2000,0
