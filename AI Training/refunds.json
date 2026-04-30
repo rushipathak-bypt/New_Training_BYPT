@@ -1,0 +1,15 @@
+[
+  {"pnr": "1234567891", "refund_status": "Processed", "amount": 450, "date": "2026-05-01"},
+  {"pnr": "1234567895", "refund_status": "Pending", "amount": 320, "date": "2026-05-02"},
+  {"pnr": "1234567897", "refund_status": "Processed", "amount": 600, "date": "2026-05-03"},
+  {"pnr": "1234567899", "refund_status": "Processed", "amount": 280, "date": "2026-05-04"},
+
+  {"pnr": "1234567803", "refund_status": "Pending", "amount": 500, "date": "2026-05-05"},
+  {"pnr": "1234567806", "refund_status": "Processed", "amount": 350, "date": "2026-05-06"},
+  {"pnr": "1234567807", "refund_status": "Processed", "amount": 420, "date": "2026-05-07"},
+
+  {"pnr": "1234567810", "refund_status": "Pending", "amount": 300, "date": "2026-05-08"},
+  {"pnr": "1234567813", "refund_status": "Processed", "amount": 470, "date": "2026-05-09"},
+  {"pnr": "1234567815", "refund_status": "Processed", "amount": 390, "date": "2026-05-10"},
+  {"pnr": "1234567817", "refund_status": "Pending", "amount": 260, "date": "2026-05-11"}
+]

@@ -1,0 +1,7 @@
+[
+  {"question": "What is WL?", "answer": "Waiting List means your ticket is not confirmed."},
+  {"question": "What is RAC?", "answer": "Reservation Against Cancellation allows partial travel."},
+  {"question": "What is PNR?", "answer": "Passenger Name Record is a 10-digit number used to check ticket status."},
+  {"question": "How to check PNR status?", "answer": "Enter your PNR number in the system to get live status."},
+  {"question": "What happens if ticket is not confirmed?", "answer": "You cannot travel unless it moves to RAC or confirmed."}
+]

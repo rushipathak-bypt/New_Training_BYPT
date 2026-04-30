@@ -1,0 +1,49 @@
+[
+  {
+    "train_number": "12001",
+    "train_name": "Delhi Mumbai Express",
+    "from": "New Delhi",
+    "to": "Mumbai",
+    "schedule": [
+      {"station": "New Delhi", "arrival": "00:00", "departure": "06:00"},
+      {"station": "Jaipur", "arrival": "10:00", "departure": "10:05"},
+      {"station": "Gandhinagar", "arrival": "16:00", "departure": "16:05"},
+      {"station": "Mumbai", "arrival": "22:00", "departure": "00:00"}
+    ],
+    "days": ["Mon", "Wed", "Fri"]
+  },
+  {
+    "train_number": "12002",
+    "train_name": "Chennai Bangalore Express",
+    "from": "Chennai",
+    "to": "Bengaluru",
+    "schedule": [
+      {"station": "Chennai", "arrival": "00:00", "departure": "07:00"},
+      {"station": "Bengaluru", "arrival": "12:00", "departure": "00:00"}
+    ],
+    "days": ["Daily"]
+  },
+  {
+    "train_number": "12003",
+    "train_name": "Kolkata Guwahati Express",
+    "from": "Kolkata",
+    "to": "Dispur",
+    "schedule": [
+      {"station": "Kolkata", "arrival": "00:00", "departure": "08:00"},
+      {"station": "Dispur", "arrival": "20:00", "departure": "00:00"}
+    ],
+    "days": ["Tue", "Thu"]
+  },
+  {
+    "train_number": "12004",
+    "train_name": "Hyderabad Bhopal Express",
+    "from": "Hyderabad",
+    "to": "Bhopal",
+    "schedule": [
+      {"station": "Hyderabad", "arrival": "00:00", "departure": "09:00"},
+      {"station": "Nagpur", "arrival": "15:00", "departure": "15:05"},
+      {"station": "Bhopal", "arrival": "22:00", "departure": "00:00"}
+    ],
+    "days": ["Mon", "Sat"]
+  }
+]
